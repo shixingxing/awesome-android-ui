@@ -66,6 +66,8 @@ Name | License | Demo
 [FAB-Loading](https://github.com/SaeedMasoumi/FAB-Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FAB-Loading.gif" width="100%">
 [MaterialTextField](https://github.com/florent37/MaterialTextField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTextField.gif" width="49%">
 [MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDateRangePicker.png" width="49%"> <img src="/art/MaterialDateRangePicker2.png" width="49%">
+[TapTargetView](https://github.com/KeepSafe/TapTargetView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TapTargetView.gif" width="49%">
+[MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTapTargetPrompt.jpg" width="49%">
 
 Layout
 ======================
@@ -106,6 +108,7 @@ Name | License | Demo
 [WaveView](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
 [FoldableLayout](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
 [TriangleLabelView](https://github.com/shts/TriangleLabelView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TriangleLabelView.jpg" width="49%">
+[FlexboxLayout](https://github.com/google/flexbox-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlexboxLayout.gif" width="49%"> <img src="/art/FlexboxLayout2.gif" width="49%">
 
 Button
 ======================
@@ -170,6 +173,8 @@ Name | License | Demo
 [HollyViewPager](https://github.com/florent37/HollyViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/HollyViewPager.gif" width="49%">
 [SCViewPager](https://github.com/sacot41/SCViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SCViewPager.gif" width="49%">
 [SwipeSelector](https://github.com/roughike/SwipeSelector) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeSelector.gif" width="49%" />
+[NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) & [MIT](http://opensource.org/licenses/MIT) | <img src="/art/NavigationTabStrip.gif" width="49%" />
+[NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) & [MIT](http://opensource.org/licenses/MIT) | <img src="/art/NavigationTabBar.gif" width="49%" /> <img src="/art/NavigationTabBar2.gif" width="49%" />
 
 Label / Form
 ======================
@@ -335,6 +340,7 @@ Name | License | Demo
 [ExplosionField](https://github.com/tyrantgit/ExplosionField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExplosionField.gif" width="49%">
 [BrokenView](https://github.com/zhanyongsheng/BrokenView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BrokenView.gif" width="49%">
 [Trianglify](https://github.com/manolovn/trianglify) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Trianglify.png" width="49%">
+[ShineButton](https://github.com/ChadCSong/ShineButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ShineButton.gif" width="100%">
 
 Other
 ======================
